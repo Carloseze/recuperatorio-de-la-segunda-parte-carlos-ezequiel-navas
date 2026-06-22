@@ -1,1 +1,3 @@
-# recuperatorio-de-la-segunda-parte-carlos-ezequiel-navas
+carlos ezequiel navas
+Primer Parcial - Informática Genera
+Artes Multimediales - UNA
